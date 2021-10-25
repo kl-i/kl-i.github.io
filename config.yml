@@ -1,0 +1,40 @@
+baseURL: http://kl-i.github.io/
+languageCode: en-us
+title: Ken Lee
+theme: PaperMod
+
+menu:
+    main:
+        - identifier: me
+          name: About Me
+          url: /aboutme/
+          weight: 5
+        - identifier: hott
+          name: The HoTT Game
+          url: /thehottgame/
+          weight: 10
+        - identifier: notes
+          name: Notes
+          url: /notes/
+          weight: 15
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 20
+
+params:
+    profileMode:
+        enabled: true
+        title: "Ken Lee" # optional default will be site title
+        subtitle: "Email : hhl4218@ic.ac.uk"
+        imageUrl: /images/heEvenUsedMyToilet.JPG # optional
+        # imageTitle: "<title of image as alt>" # optional
+        # imageWidth: 120 # custom size
+        # imageHeight: 120 # custom size
+        buttons:
+            - name: About Me
+              url: "/aboutme/"
+
+    socialIcons: # optional
+        - name: github
+          url: "https://github.com/kl-i"

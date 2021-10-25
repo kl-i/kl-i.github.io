@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ken Lee</title>
+    <link>http://kl-i.github.io/</link>
+    <description>Recent content on Ken Lee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://kl-i.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://kl-i.github.io/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kl-i.github.io/aboutme/</guid>
+      <description>Name In chinese (mandarin) it is 李宣賢 (Pinyin : li xuan xian). The last character in Japanese is pronounced Ken, is my english name given to me by my mother who speaks Japanese.
+The Life Story  From birth to 8, I lived in Taipei, Taiwan. From 8 to 11, I lived in Tokyo, Japan. From 11 to 14, I lived in Paris, France. From 14 to 18, I lived in Shanghai, China.</description>
+    </item>
+    
+    <item>
+      <title>Notes</title>
+      <link>http://kl-i.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kl-i.github.io/notes/</guid>
+      <description>Notes made during my time at Imperial College London   Galois Theory (First Iteration)
+A very long document I wrote with a friend in the summer of 1st year where we wrote all the algebra we knew at the time.
+  Galois Theory (Second Iteration)
+Less than 15 pages. I wrote this in 2nd year as an attempt to isolate the key part making the fundamental theorem of Galois theory work.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>http://kl-i.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kl-i.github.io/posts/</guid>
+      <description>posts</description>
+    </item>
+    
+    <item>
+      <title>The HoTT Game</title>
+      <link>http://kl-i.github.io/thehottgame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kl-i.github.io/thehottgame/</guid>
+      <description>The Homotopy Type Theory (HoTT) Game is a project written by a friend and I for mathematicians interested in HoTT and no experience in proof verification, with the aim of introducing cubical agda as a tool for trying out mathematics in HoTT. See the website here.</description>
+    </item>
+    
+  </channel>
+</rss>
