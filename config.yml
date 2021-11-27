@@ -2,6 +2,7 @@ baseURL: http://kl-i.github.io/
 languageCode: en-us
 title: Ken Lee
 theme: PaperMod
+publishDir: docs
 
 menu:
     main:

@@ -12,7 +12,7 @@ The last character in Japanese is pronounced _Ken_,
 is my english name given to me by my mother 
 who speaks Japanese.
 
-### The Life Story
+### Life Story
 
 - From birth to 8, I lived in Taipei, Taiwan.
 - From 8 to 11, I lived in Tokyo, Japan.

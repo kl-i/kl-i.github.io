@@ -25,11 +25,12 @@ url: "/notes/"
   on _Schemes : the Manifolds of Algebraic Geometry_
  
   - Latex files : [https://github.com/kl-i/WIMP-2020-autumn](https://github.com/kl-i/WIMP-2020-autumn)
-  - Video Presentation : TODO
+  - Video Presentation : To be added
  
   Crystalisation of my understanding of the locally-ringed-space
   approach to schemes.
-- [Notes on delta sets](https://github.com/kl-i/notes-on-delta-sets)
+- [Colloquium talk in 3rd year on "Triangles, Yoneda and Homology"](/pdfs/UGC-triangles.pdf)
+- [Notes on Delta Sets](https://github.com/kl-i/notes-on-delta-sets)
 
   During 3rd year algebraic topology class,
   highly dissatisfied with the messiness in Hatcher's exposition
@@ -58,10 +59,14 @@ url: "/notes/"
   Everything I knew about presheaves in 3rd year summer.
   Key part : phrasing everything in terms of
   the "total space" of a presheaf.
-- [Algebraic Geometry via Functor of Points](https://github.com/kl-i/notes-on-algebraic-geometry)
+<!-- - [Algebraic Geometry via Functor of Points](https://github.com/kl-i/notes-on-algebraic-geometry)
 
   An attempt in year 2 summer at an exposition of basic algebraic geometry
-  from completely from the functor of points perspective.
+  from completely from the functor of points perspective. -->
+- [Notes on Model Categories](https://github.com/kl-i/Notes-on-Model-Categories/blob/main/main.pdf)
+- [Infinity Categories via Homotopical Segal Condition](https://github.com/kl-i/Notes-on-the-Segal-Condition/blob/main/main.pdf)
+
+  A talk I gave in an online learning group on infinity categories.
 
 ---
 
