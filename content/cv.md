@@ -27,7 +27,7 @@ who speaks Japanese.
   This is what I speak with my parents.
 - Since 8, I have been attending schools
   with a fully English environment.
-  I would say my English is in fact better than my chinese.
+  I would say my English is in fact better than my Chinese.
   This is what I speak with my sister, friends, 
   pretty much anyone who are not my parents.
 - I know enough French for reading mathematical papers.
