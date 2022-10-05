@@ -18,7 +18,8 @@ who speaks Japanese.
 - From 8 to 11, I lived in Tokyo, Japan.
 - From 11 to 14, I lived in Paris, France.
 - From 14 to 18, I lived in Shanghai, China.
-- From 18 to now, I am living in London, UK.
+- From 18 to 22, I lived in London, UK.
+- From 22 to now, I am living in Oxford, UK.
 
 ### Languages
 
@@ -37,11 +38,13 @@ who speaks Japanese.
 - Category theory 
 - Homotopy type theory
 - Derived algebraic geometry
+- Rigid geometry
 
 ### Music
 
 - jazz piano
 - electric bass
-- guitar
+- electric guitar
+- singing
 - musical transcription
 - song arrangement

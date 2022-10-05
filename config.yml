@@ -10,13 +10,13 @@ menu:
           name: About Me
           url: /aboutme/
           weight: 5
-        - identifier: hott
-          name: The HoTT Game
-          url: /thehottgame/
-          weight: 10
         - identifier: notes
           name: Notes
           url: /notes/
+          weight: 10
+        - identifier: hott
+          name: The HoTT Game
+          url: /thehottgame/
           weight: 15
         - identifier: posts
           name: Posts
@@ -27,7 +27,7 @@ params:
     profileMode:
         enabled: true
         title: "Ken Lee" # optional default will be site title
-        subtitle: "Email : hhl4218@ic.ac.uk"
+        subtitle: "Email : leeh@maths.ox.ac.uk"
         imageUrl: /images/heEvenUsedMyToilet.JPG # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size
