@@ -3,7 +3,13 @@ title: "Notes"
 url: "/notes/"
 ---
 
-### Undegrad at Imperial College London (2018-2022)
+### Masters Thesis
+
+[A Study in 'A Study in Derived Algebraic Geometry'](
+  https://github.com/kl-i/M4R/blob/master/main.pdf
+  )
+
+### Undergraduate at Imperial College London (2018-2022)
 
 - [Galois Theory](https://github.com/kl-i/galois) (First Iteration)
 
@@ -67,12 +73,6 @@ url: "/notes/"
 - [Infinity Categories via Homotopical Segal Condition](https://github.com/kl-i/Notes-on-the-Segal-Condition/blob/main/main.pdf)
 
   A talk I gave in an online learning group on infinity categories.
-
-- [A Study in 'A Study in Derived Algebraic Geometry'](
-  https://github.com/kl-i/M4R/blob/master/main.pdf
-  )
-
-  My masters thesis.
 
 ---
 
