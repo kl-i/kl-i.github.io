@@ -36,9 +36,7 @@ who speaks Japanese.
 ### Mathematical Interests
 
 - Category theory 
-- Homotopy type theory
-- Derived algebraic geometry
-- Rigid geometry
+- (Categorical) Geometric Langlands
 
 ### Music
 
