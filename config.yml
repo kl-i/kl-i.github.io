@@ -14,14 +14,18 @@ menu:
           name: Notes
           url: /notes/
           weight: 10
+        - identifier: cgl
+          name: Categorical Geometric Langlands
+          url: /cgl/
+          weight: 11
         - identifier: hott
           name: The HoTT Game
           url: /thehottgame/
           weight: 15
-        - identifier: posts
-          name: Posts
-          url: /posts/
-          weight: 20
+        # - identifier: posts
+        #   name: Posts
+        #   url: /posts/
+        #   weight: 20
 
 params:
     profileMode:
