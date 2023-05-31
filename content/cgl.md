@@ -21,7 +21,7 @@ Here are notes from the talks.
 - [Week 3 : Some perspectives on differential operators in algebraic geometry (Arun Soor, May 12th)](/pdfs/2023-cgl-week-3-notes.pdf)
 - [Week 4 : Hecke actions (Ken Lee, May 19th)](https://github.com/kl-i/2023-cgl-week-4/blob/main/main.pdf)
 - Week 5 : Geometric Satake Part 1 - Affine Grassmannian (Jonas Antor, May 25th).
-- Week 6 : Geometric Satake Part 2 - Fusion Product (Speaker TBC, June 1st).
+- Week 6 : Geometric Satake Part 2 - Fusion Product (Finn Wiersig, June 1st).
 - Week 7 : Geometric Satake Part 3 - Tannaka Reconstruction and the Langlands Dual Group
   (Jay Swar, June 8th).
 - Week 8 : Overview of Hitchin’s integrable system (Speaker TBC, June 15th).
