@@ -17,11 +17,11 @@ The most updated schedule is [here](/pdfs/Geometric_langlands_study_group_schedu
 
 Here are notes from the talks.
 - [Week 1 : Introduction to categorical geometric Langlands (Ken Lee, April 28th)](https://github.com/kl-i/2023-cgl-week-1/blob/main/main.pdf)
-- Week 2 : Stacks (ChenJing Bu, May 5th). To be uploaded.
+- Week 2 : Stacks (ChenJing Bu, May 5th). Notes to be uploaded.
 - [Week 3 : Some perspectives on differential operators in algebraic geometry (Arun Soor, May 12th)](/pdfs/2023-cgl-week-3-notes.pdf)
 - [Week 4 : Hecke actions (Ken Lee, May 19th)](https://github.com/kl-i/2023-cgl-week-4/blob/main/main.pdf)
-- Week 5 : Geometric Satake Part 1 - Affine Grassmannian (Jonas Antor, May 25th).
-- Week 6 : Geometric Satake Part 2 - Fusion Product (Finn Wiersig, June 1st).
+- [Week 5 : Geometric Satake Part 1 - Affine Grassmannian (Jonas Antor, May 25th)](https://github.com/kl-i/cgl-week-5/blob/main/main.pdf)
+- Week 6 : Geometric Satake Part 2 - Fusion Product (Finn Wiersig, June 1st). Notes to be uploaded.
 - Week 7 : Geometric Satake Part 3 - Tannaka Reconstruction and the Langlands Dual Group
   (Jay Swar, June 8th).
 - Week 8 : Overview of Hitchin’s integrable system (Speaker TBC, June 15th).
