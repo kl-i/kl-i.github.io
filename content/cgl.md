@@ -23,8 +23,10 @@ Here are notes from the talks.
 - [Week 5 : Geometric Satake Part 1 - Affine Grassmannian (Jonas Antor, May 25th)](https://github.com/kl-i/cgl-week-5/blob/main/main.pdf)
 - Week 6 : Geometric Satake Part 2 - Fusion Product (Finn Wiersig, June 1st). Notes to be uploaded.
 - Week 7 : Geometric Satake Part 3 - Tannaka Reconstruction and the Langlands Dual Group
-  (Jay Swar, June 12th Monday 14:00-15:30 at C2).
-- Week 8 : Overview of Hitchin’s integrable system (Speaker TBC, June 15th).
-- Week 9 : Quantisation of Hitchin’s integrable system (Speaker TBC, June 22nd).
-- Week 10 : No seminar.
-- Week 11 : Opers (Ken Lee, July 6th).
+  (Jay Swar, June 12th Monday 14:00-15:30 at C2). Notes to be uploaded.
+- Week 8 : Overview of Hitchin’s integrable system (Arun Soor, Ken Lee, June 15th).
+  Notes to be uploaded.
+- Week 9 : No seminar.
+- Week 10 : Quantisation of Hitchin’s integrable system
+  (Arun Soor, Ken Lee, Thursday 29th June).
+- Week 11 : Opers (Ken Lee, Thursday 6th July).
