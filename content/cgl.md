@@ -29,5 +29,5 @@ Here are notes from the talks.
 - Week 9 : No seminar.
 - Week 10 : Postponed.
 - Week 11 : Quantisation of Hitchin’s integrable system
-  (Arun Soor, Ken Lee, July 7th Friday 11:00-12:30).
-- Week 12 : Opers (Ken Lee, July 10th Monday 11:00-12:30).
+  (Arun Soor, Ken Lee, July 7th Friday 11:00-12:30 in N3.12).
+- Week 12 : Opers (Ken Lee, July 10th Monday 11:00-12:30 in C5).
