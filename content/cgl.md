@@ -5,6 +5,22 @@ url: "/cgl/"
 
 This page contains notes from my research in categorical geometric Langlands.
 
+### Winter 2023
+
+[Introduction to de Rham geometric Langlands](https://github.com/kl-i/Transfer-thesis/blob/main/main.pdf) :
+We give an introduction to de Rham geometric Langlands in characteristic zero. 
+We begin with motivation from unramified geometric class field theory for function fields over finite fields. 
+A proof is sketched
+whose core strategy, the adelic uniformization of the Picard stack, works independently of the characteristic
+of the base field. We use the moduli space of Cartier divisors to motivate the more general Beilinson–
+Drinfeld Grassmannians as we move from GL1 to arbitrary connected reductive G. 
+We use character sheaves to motivate Hecke eigensheaves. 
+As we move from a finite base field to a base field of characteristic zero, 
+we explain the change from l-adic to de Rham local systems. 
+We describe a first approximation
+to the definition of the Hecke action in the arbitrary connected reductive case, introducing the Schubert
+stratification of the Hecke stack
+
 ###  Summer 2023 reading group
 
 This is a reading group organised by Arun Soor and I
