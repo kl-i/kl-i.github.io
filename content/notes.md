@@ -6,6 +6,8 @@ url: "/notes/"
 ### Teaching
 
 - [An 8 hour course on Galois theory](https://github.com/kl-i/galoisCourse/blob/main/main.pdf)
+
+- [Functor of points done right](https://github.com/kl-i/functor-of-points-done-right/blob/main/main.pdf)
   
 ### Masters Thesis
 
