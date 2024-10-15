@@ -3,6 +3,10 @@ title: "Notes"
 url: "/notes/"
 ---
 
+### Teaching
+
+- [An 8 hour course on Galois theory](https://github.com/kl-i/galoisCourse/blob/main/main.pdf)
+  
 ### Masters Thesis
 
 [A Study in 'A Study in Derived Algebraic Geometry'](
@@ -15,12 +19,12 @@ url: "/notes/"
 
   A very long document I wrote with a friend in the summer of 1st year
   where we wrote _all_ the algebra we knew at the time.
-- [Galois Theory](https://github.com/kl-i/galois-200cc) (Second Iteration)
+- [Galois Theory](https://github.com/kl-i/galois-200cc/blob/master/main.pdf) (Second Iteration)
 
   Less than 15 pages.
   I wrote this in 2nd year as an attempt to isolate
   the key part making the fundamental theorem of Galois theory work.
-- [Category Theory](https://github.com/kl-i/Notes-on-Category-Theory) (First Iteration)
+- [Category Theory](https://github.com/kl-i/Notes-on-Category-Theory/blob/master/main.pdf) (First Iteration)
 
   An info dump of all the category theory I knew 
   in 2nd year winter.
