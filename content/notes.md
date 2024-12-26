@@ -3,11 +3,13 @@ title: "Notes"
 url: "/notes/"
 ---
 
-### Teaching
+### Notes
 
-- [An 8 hour course on Galois theory](https://github.com/kl-i/galoisCourse/blob/main/main.pdf)
+- [Notes on analytic de Rham stacks](/pdfs/analyticDeRham.pdf)
 
 - [Functor of points done right](https://github.com/kl-i/functor-of-points-done-right/blob/main/main.pdf)
+
+- [A one day course on Galois theory](https://github.com/kl-i/galoisCourse/blob/main/main.pdf)
   
 ### Masters Thesis
 
