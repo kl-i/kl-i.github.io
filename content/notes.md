@@ -3,7 +3,7 @@ title: "Notes"
 url: "/notes/"
 ---
 
-### Notes
+### PhD at Oxford (2022-Now)
 
 - [Notes on the adic Fargues-Fontaine curve](https://github.com/kl-i/FF/blob/main/main.pdf)
 
