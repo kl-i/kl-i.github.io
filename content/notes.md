@@ -5,9 +5,16 @@ url: "/notes/"
 
 ### Notes
 
-- [Notes on analytic de Rham stacks](/pdfs/analyticDeRham.pdf)
+- [Notes on the adic Fargues-Fontaine curve](https://github.com/kl-i/FF/blob/main/main.pdf)
 
-- [Functor of points done right](https://github.com/kl-i/functor-of-points-done-right/blob/main/main.pdf)
+- [Notes on analytic de Rham stacks](/pdfs/analyticDeRham.pdf)
+  I took at the 2024 workshop in [Poland](https://achinger.impan.pl/drstacks2024.html).
+
+- [Functor of points done right](https://github.com/kl-i/functor-of-points-done-right/blob/main/main.pdf).
+  An exposition of scheme theory
+  completely using functor of points, aiming to build
+  intuition for algebraic geometry with commutative rings
+  from zero.
 
 - [A one day course on Galois theory](https://github.com/kl-i/galoisCourse/blob/main/main.pdf)
   
@@ -50,24 +57,15 @@ url: "/notes/"
   highly dissatisfied with the messiness in Hatcher's exposition
   of "delta complexes",
   I decided to clean it up using delta sets which Hatcher does not use.
-- [Covering Spaces](https://github.com/kl-i/notes-on-covering-spaces) (First Iteration)
+- [Covering Spaces](https://github.com/kl-i/notes-on-covering-spaces)
 
   Also 3rd year,
   again dissatified with Hatcher's exposition
   this time of covering spaces,
   I wrote this exposition in an attempt to clean up
-  and hence isolate the key parts involved in the 
+  and hence isolate the key parts involved in the
   "fundamental theorem of covering spaces".
-- Covering Spaces (Second Iteration)
 
-  In this iteration, the "formalism" and the "algebraic topology"
-  is further isolated.
-  A key realisation : 
-  semi-locally simple connectedness 
-  is precisely "locally 1-categorically contractible"
-  and this is an equivalent condition to
-  being able to recover topological covering spaces
-  from categorical ones (of the fundamental groupoid).
 - [ Presheaves ](https://github.com/kl-i/notes-on-presheaves)
 
   Everything I knew about presheaves in 3rd year summer.
