@@ -10,6 +10,10 @@ url: "/notes/"
 - [Notes on analytic de Rham stacks](/pdfs/analyticDeRham.pdf)
   I took at the 2024 workshop in [Poland](https://achinger.impan.pl/drstacks2024.html).
 
+- [Derived categories of quasi-coherent sheaves](https://github.com/kl-i/derivedCat/blob/main/main.pdf)
+  An exposition of unbounded derived categories of quasi-coherent sheaves
+  on schemes in the language of higher categories.
+
 - [Functor of points done right](https://github.com/kl-i/functor-of-points-done-right/blob/main/main.pdf).
   An exposition of scheme theory
   completely using functor of points, aiming to build
